@@ -1,0 +1,17 @@
+h1 {
+   background: blue;
+}
+
+li{
+    background: red;
+    color: black;
+    font-size: 20px;
+    width: 400px;
+    border-radius: 10px
+}
+p{
+    background: #fffd6a;
+    color: blue;
+    font-size: 20px;
+    border-radius: 10px
+}
