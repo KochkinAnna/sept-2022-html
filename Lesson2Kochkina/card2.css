@@ -1,0 +1,86 @@
+
+.chef {
+    background: #a3dec8;
+    box-sizing: border-box;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+
+.fortext {
+    font-family:Arial sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.grandfather {
+    background: #000;;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card2 {
+    width: 200px;
+    height: 250px;
+    background: #f3f0f0;
+    border: 1px solid black;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.fa-house {
+    font-size: 30px;
+    color: #42ecae;
+}
+
+.fa-github {
+    font-size: 30px;
+    color: #42ecae;
+}
+
+.fa-slack {
+    font-size: 30px;
+    color: #42ecae;
+}
+
+.fa-bug {
+    font-size: 30px;
+    color: #42ecae;
+}
+
+.description {
+    box-sizing: border-box;
+    padding: 10px;
+    padding-top: 0px;
+    text-align: center;
+    font-family: Arial sans-serif;
+}
+
+.father {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.bottom {
+    width: 150px;
+    height: 40px;
+    background: #42ecae;
+    /*box-sizing: border-box;*/
+    /*padding-left: 15px;*/
+    /*padding-right: 10px;*/
+}
+
+.text {
+    font-family: Arial sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
