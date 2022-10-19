@@ -7,7 +7,7 @@
 }
 
 .fortext {
-    font-family:Arial sans-serif;
+    font-family: Arial sans-serif;
     font-size: 20px;
     font-weight: 700;
     text-align: center;
@@ -68,13 +68,9 @@
     flex-direction: row;
 }
 
-.bottom {
-    width: 150px;
-    height: 40px;
-    background: #42ecae;
-    /*box-sizing: border-box;*/
-    /*padding-left: 15px;*/
-    /*padding-right: 10px;*/
+button {
+    text-transform: uppercase;
+    border-bottom-color: #42ecae;
 }
 
 .text {
