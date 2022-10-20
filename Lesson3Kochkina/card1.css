@@ -48,3 +48,17 @@
     position: relative;
     top: 95px;
 }
+
+button {
+    text-transform: uppercase;
+
+}
+
+.text {
+    font-family: Arial sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fffd6a;
+}
