@@ -1,7 +1,8 @@
 @media screen and (min-width: 0) and (max-width: 768px) {
-.son {
-    height: 100px;
-}
+    .son {
+        height: 100px;
+    }
+
     img {
         width: 60px;
         height: 70px;
@@ -10,7 +11,8 @@
     .daughter {
         flex-direction: column;
 
-}
+    }
+
     .child {
         width: 99%;
         height: 475px;
@@ -21,4 +23,8 @@
         height: 100px;
     }
 
+    .baby {
+        width: 100px;
+        height: 100px;
+    }
 }
